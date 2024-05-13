@@ -1,0 +1,8 @@
+h1 {
+  color: rgb(0, 0, 0);
+  font-style: brown;
+}
+body {
+  background-image: url("/img/back2end.png");
+  background-size: cover;
+}
